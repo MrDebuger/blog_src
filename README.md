@@ -1,2 +1,2 @@
 # blog_src
-博客中的代码
+- redis-session:springboot环境中使用redis实现session共享。
